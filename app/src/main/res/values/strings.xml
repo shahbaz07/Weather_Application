@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+
+    <string name="weather_title">Weather Information</string>
+    <string name="get_info">Get Info</string>
+    <string name="please_wait">Please wait...</string>
+    <string name="city_name_required">Please enter city name.</string>
+    <string name="example_city_name">Eg: Dubai</string>
+    <string name="weather_info_error">Unable to get weather info. Please try again.</string>
+</resources>
